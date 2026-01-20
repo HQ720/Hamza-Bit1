@@ -1,4 +1,4 @@
-I’m a Cyber Security student at Aston University
+I’m Hamza and im a Cyber Security student at Aston University
 
 I love to learn about how systems work, how they break, and how to secure them properly.
 I spend a lot of my time learning outside of uni through my home labs and personal projects, which is 
@@ -8,9 +8,7 @@ Im always curious about cyber and tech and this github will be my documentation 
 
 
 Tech Skils:
-Front-end web development (HTML & CSS)
-
-Java programming fundamentals
+Front-end web development (HTML & CSS & JavaScript)
 
 Python scripting for automation and problem-solving
 
@@ -19,5 +17,7 @@ Web security fundamentals (basic SQL injection)
 Hands-on cybersecurity practice through home labs
 
 Networking and system fundamentals
+
+
 
 
